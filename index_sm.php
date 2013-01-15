@@ -41,7 +41,7 @@ include('src/main.inc');
 </table>
 <iframe src="home.php" name="base" frameborder="0" style="position:absolute;z-index:10;left:155;top:75;height:315;width:570;"></iframe>
 <font style="position:absolute;z-index:20;font-type:tahoma;font-size:10px;top:380;left:55;"><a href="index.php" style="text-decoration:underline;color:#000000;" target="_top">1024_x_768</a></font>
-<font style="position:absolute;font-type:tahoma;font-size:10px;top:415;left:365;">Copyright Phoenix Tech © 2005</font>
+<font style="position:absolute;font-type:tahoma;font-size:10px;top:415;left:365;width:150px">Copyright Phoenix Tech © 2005</font>
 <img src="imgs/crn_tr.png" style="position:absolute;z-index:4;left:737;top:0;">
 <img src="imgs/crn_bl.png" style="position:absolute;z-index:4;left:137;top:401;">
 <img src="imgs/crn_br.png" style="position:absolute;z-index:4;left:737;top:401;">
