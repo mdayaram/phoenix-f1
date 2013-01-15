@@ -28,7 +28,7 @@ a:hover {color: #ffffff; text-decoration: none; font-style: bold;}
 
 </head>
 <?php
-include('http://www.thinkphoenixtech.com/src/main.inc');
+include('src/main.inc');
 ?>
 <img src="imgs/motto.png" style="position:absolute;z-index:3;left:247;top:10;">
 <table style="position:absolute;z-index:2;left:147;top:0;background:url('imgs/bg_main.png');" width="800" height="200"cellspacing=0 cellpadding=0 border=0>
@@ -40,7 +40,7 @@ include('http://www.thinkphoenixtech.com/src/main.inc');
 </td></tr>
 </table>
 <iframe src="home.php" name="base" frameborder="0" style="position:absolute;z-index:10;left:155;top:75;height:440;width:770;"></iframe>
-<font style="position:absolute;z-index:20;font-type:tahoma;font-size:10px;top:380;left:55;"><a href="http://www.thinkphoenixtech.com/index_sm.php" style="text-decoration:underline;color:#000000;" target="_top">800_x_600</a></font>
+<font style="position:absolute;z-index:20;font-type:tahoma;font-size:10px;top:380;left:55;"><a href="index_sm.php" style="text-decoration:underline;color:#000000;" target="_top">800_x_600</a></font>
 <font style="position:absolute;font-type:tahoma;font-size:10px;top:540;left:465;">Copyright Phoenix Tech © 2005</font>
 <img src="imgs/crn_tr.png" style="position:absolute;z-index:4;left:937;top:0;">
 <img src="imgs/crn_bl.png" style="position:absolute;z-index:4;left:137;top:526;">

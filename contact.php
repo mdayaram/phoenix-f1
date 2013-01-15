@@ -1,5 +1,5 @@
 <?php
-include('http://www.thinkphoenixtech.com/src/page.inc');
+include('src/page.inc');
 ?>
 <p>
 <font class="head">Telephone</font>
