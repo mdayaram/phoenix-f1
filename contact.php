@@ -1,6 +1,8 @@
 <?php
 include('src/page.inc');
 ?>
+<?php
+/*
 <p>
 <font class="head">Telephone</font>
 </p><p>
@@ -87,3 +89,10 @@ Would you like a copy of this email to be sent to you? <br>
 
 </body>
 </html>
+*/
+?>
+
+<font class="head">Uncontactable!</font>
+<p>
+I'm sorry, Phoenix-F1, aka Phoenix-Tech, is no longer in business.
+</p>
