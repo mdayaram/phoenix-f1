@@ -7,8 +7,8 @@ Though it is no longer in business, I wanted to keep the site up out of nostalgi
 
 Visit original here:
 
-https://phoenix-f1.herokuapp.com
+https://phoenix-f1.hazasite.com
 
 Visit beta rework here:
 
-https://phoenix-f1.herokuapp.com/new
+https://phoenix-f1.hazasite.com/new
